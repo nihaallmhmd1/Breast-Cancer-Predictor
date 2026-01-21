@@ -1,4 +1,4 @@
-# 🩺 Breast Cancer Predictor using Machine Learning
+# 🩺 Breast Cancer Prediction using Machine Learning
 
 This project is a **machine learning-based Breast Cancer Prediction system** that classifies tumors as **Malignant** or **Benign** using medical diagnostic features.  
 The model is built using **Logistic Regression** and trained on the **Breast Cancer Wisconsin Dataset**.
